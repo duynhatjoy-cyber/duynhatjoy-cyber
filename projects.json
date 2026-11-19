@@ -1,0 +1,107 @@
+[
+  {
+    "id": "pms-system",
+    "title": "Bellhop PMS System",
+    "demoLabel": "github.com/duynhatjoy-cyber/PMS-System",
+    "demoUrl": "https://github.com/duynhatjoy-cyber/PMS-System",
+    "sourceUrl": "https://github.com/duynhatjoy-cyber/PMS-System",
+    "tags": ["React", "Vite"],
+    "ledColors": ["#7c3aed", "#ec4899", "#f472b6"],
+    "slides": [
+      "screenshots/pms-system-1.webp",
+      "screenshots/pms-system-2.webp",
+      "screenshots/pms-system-3.webp",
+      "screenshots/pms-system-4.webp"
+    ]
+  },
+  {
+    "id": "bellhop-be",
+    "title": "Bellhop Booking Engine",
+    "demoLabel": "github.com/duynhatjoy-cyber/Bellhop-BE",
+    "demoUrl": "https://github.com/duynhatjoy-cyber/Bellhop-BE",
+    "sourceUrl": "https://github.com/duynhatjoy-cyber/Bellhop-BE",
+    "tags": ["React", "Lucide"],
+    "ledColors": ["#0284c7", "#06b6d4", "#67e8f9"],
+    "slides": [
+      "screenshots/bellhop-be-1.webp",
+      "screenshots/bellhop-be-2.webp",
+      "screenshots/bellhop-be-3.webp",
+      "screenshots/bellhop-be-4.webp"
+    ]
+  },
+  {
+    "id": "bellhop-id",
+    "title": "Bellhop ID",
+    "demoLabel": "github.com/duynhatjoy-cyber/Product_Bell",
+    "demoUrl": "https://github.com/duynhatjoy-cyber/Product_Bell",
+    "sourceUrl": "https://github.com/duynhatjoy-cyber/Product_Bell",
+    "tags": ["React", "SSO"],
+    "ledColors": ["#059669", "#22c55e", "#a3e635"],
+    "slides": [
+      "screenshots/bellhop-id-1.webp",
+      "screenshots/bellhop-id-2.webp",
+      "screenshots/bellhop-id-3.webp",
+      "screenshots/bellhop-id-4.webp"
+    ]
+  },
+  {
+    "id": "web-lifs",
+    "title": "Lifrooms · Web Lifs",
+    "demoLabel": "github.com/duynhatjoy-cyber/Web-Lifs",
+    "demoUrl": "https://github.com/duynhatjoy-cyber/Web-Lifs",
+    "sourceUrl": "https://github.com/duynhatjoy-cyber/Web-Lifs",
+    "tags": ["TypeScript", "Vite"],
+    "ledColors": ["#0284c7", "#38bdf8", "#a3e635"],
+    "slides": [
+      "screenshots/web-lifs-1.webp",
+      "screenshots/web-lifs-2.webp",
+      "screenshots/web-lifs-3.webp",
+      "screenshots/web-lifs-4.webp"
+    ]
+  },
+  {
+    "id": "web-2",
+    "title": "Lifrooms · Web 2",
+    "demoLabel": "github.com/duynhatjoy-cyber/Web-2",
+    "demoUrl": "https://github.com/duynhatjoy-cyber/Web-2",
+    "sourceUrl": "https://github.com/duynhatjoy-cyber/Web-2",
+    "tags": ["JavaScript", "Vite"],
+    "ledColors": ["#f97316", "#f43f5e", "#fb7185"],
+    "slides": [
+      "screenshots/web-2-1.webp",
+      "screenshots/web-2-2.webp",
+      "screenshots/web-2-3.webp",
+      "screenshots/web-2-4.webp"
+    ]
+  },
+  {
+    "id": "web-lif3",
+    "title": "Lifrooms · Web Lif3",
+    "demoLabel": "github.com/duynhatjoy-cyber/Web-Lif3",
+    "demoUrl": "https://github.com/duynhatjoy-cyber/Web-Lif3",
+    "sourceUrl": "https://github.com/duynhatjoy-cyber/Web-Lif3",
+    "tags": ["JavaScript", "Multi-page"],
+    "ledColors": ["#d97706", "#f59e0b", "#fde68a"],
+    "slides": [
+      "screenshots/web-lif3-1.webp",
+      "screenshots/web-lif3-2.webp",
+      "screenshots/web-lif3-3.webp",
+      "screenshots/web-lif3-4.webp"
+    ]
+  },
+  {
+    "id": "web-3",
+    "title": "Lifrooms · Web 3",
+    "demoLabel": "github.com/duynhatjoy-cyber/Web-3",
+    "demoUrl": "https://github.com/duynhatjoy-cyber/Web-3",
+    "sourceUrl": "https://github.com/duynhatjoy-cyber/Web-3",
+    "tags": ["TypeScript", "Multi-page"],
+    "ledColors": ["#7c3aed", "#ec4899", "#38bdf8"],
+    "slides": [
+      "screenshots/web-3-1.webp",
+      "screenshots/web-3-2.webp",
+      "screenshots/web-3-3.webp",
+      "screenshots/web-3-4.webp"
+    ]
+  }
+]
